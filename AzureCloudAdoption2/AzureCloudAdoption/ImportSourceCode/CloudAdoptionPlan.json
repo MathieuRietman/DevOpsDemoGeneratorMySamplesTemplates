@@ -1,9 +1,0 @@
-{
-  "parameters": {
-    "gitSource": {
-      "url": "https://dev.azure.com/dummy/AzureCloudAdoption/_git/AzureCloudAdption Master"
-    },
-    "serviceEndpointId": "$CloudAdoptionPlan$",
-    "deleteServiceEndpointAfterImportIsDone": true
-  }
-}
